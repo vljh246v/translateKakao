@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "ec2-52-78-230-23.ap-northeast-2.compute.amazonaws.com",
+    "username": "ubuntu",
+    "port": 22,
+    "remotePath": "/home/ubuntu/project/translate",
+    "sshKeyFile": "D:/Project/translate/awskey/translate.pem",
+    "uploadOnSave": false
+}
